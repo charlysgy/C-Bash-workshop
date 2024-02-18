@@ -1,6 +1,6 @@
 # C-workshop
 All those codes are based on different subjects given to students at the EPITA school.
-Students have 2 weeks, Monday to Saturday (Sunday is rest-day 💤), 8AM 🕗 to midnight 🕛 to complete a series of exercises.
+Students have 2 weeks, Monday to Saturday (Sunday is rest-day 💤), 8AM 🕗 to midnight 🕛 to complete all those exercises.
 
 No subject can be published due EPITA copyrights but the given codes are free to read and use, it is a great repository to learn C language through different and mandatory notions
 
